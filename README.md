@@ -36,15 +36,8 @@ A Python-based application for generating secure, random passwords.
 - Combines letters, numbers, and special characters to create strong passwords.  
 - User-friendly graphical interface built with `Tkinter`.  
 
-### 5️⃣ **Classwork & Assignments**  
-
-A repository containing various Python projects, classwork, and assignments completed as part of academic learning at UPES.
-
 ## 📬 Contact Me  
 Feel free to connect with me for collaborations or inquiries!  
 
 **Email:** [vikashjaihind147@gmail.com](mailto:vikashjaihind147@gmail.com)
 
----
-
-Let me know if you need further modifications!
